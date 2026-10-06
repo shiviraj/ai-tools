@@ -11,7 +11,7 @@ This project uses **Ollama** to run LLMs locally on your machine, so the applica
 Make sure the following are installed:
 
 - macOS
-- Python 3.14+
+- Python 3.12
 - Homebrew
 - Ollama
 - Git
